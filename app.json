@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "User",
-    "slug": "User",
+    "slug": "kme-blog",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "222704ad-d764-45fc-acdc-57892d1383bc"
+      }
+    },
+    "owner": "fazal007"
   }
 }
